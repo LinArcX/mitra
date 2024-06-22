@@ -1,0 +1,2 @@
+# Mitra
+A project generator
