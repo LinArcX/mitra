@@ -1,5 +1,6 @@
 output/*
-src/*
 src/main
 src/src*
+src/README.md
 src/.gitignore
+src/project.sh
